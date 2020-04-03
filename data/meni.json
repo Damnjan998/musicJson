@@ -1,0 +1,36 @@
+[
+    {
+        "naslov" : "Home",
+        "putanja" : "index.html"
+    },
+
+    {
+        "naslov" : "Artists",
+        "putanja" : "artists.html"
+    },
+
+    {
+        "naslov" : "Specials",
+        "putanja" : "specials.html"
+    },
+
+    {
+        "naslov" : "Contact",
+        "putanja" : "contact.html"
+    },
+
+    {
+        "naslov" : "About",
+        "putanja" : "about.html"
+    },
+
+    {
+        "naslov" : "Documentacion",
+        "putanja" : "dokumentacija.pdf"
+    },
+
+    {
+        "naslov" : "Site Map",
+        "putanja" : "sitemap.xml"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "id" : 1,
+        "slika" : {
+            "src" : "images/pic9.jpg",
+            "alt" : "Slika 5"
+        },
+        "katId" : 1,
+        "naslov" : "Simply Sound",
+        "cena" : "19$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 2,
+        "slika" : {
+            "src" : "images/pic6.jpg",
+            "alt" : "Slika 6"
+        },
+        "katId" : 2,
+        "naslov" : "Emotions Notes",
+        "cena" : "28$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 3,
+        "slika" : {
+            "src" : "images/pic7.jpg",
+            "alt" : "Slika 7"
+        },
+        "katId" : 3,
+        "naslov" : "Wind-wall Music",
+        "cena" : "82$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 4,
+        "slika" : {
+            "src" : "images/pic8.jpg",
+            "alt" : "Slika 8"
+        },
+        "katId" : 4,
+        "naslov" : "Cold Air",
+        "cena" : "76$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 5,
+        "slika" : {
+            "src" : "images/pic10.jpg",
+            "alt" : "Slika 9"
+        },
+        "katId" : 5,
+        "naslov" : "Personality",
+        "cena" : "63$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 6,
+        "slika" : {
+            "src" : "images/pic11.jpg",
+            "alt" : "Slika 9"
+        },
+        "katId" : 6,
+        "naslov" : "Dark Light",
+        "cena" : "22$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 7,
+        "slika" : {
+            "src" : "images/pic12.jpg",
+            "alt" : "Slika 9"
+        },
+        "katId" : 7,
+        "naslov" : "Warmer Winter",
+        "cena" : "46$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 8,
+        "slika" : {
+            "src" : "images/pic13.jpg",
+            "alt" : "Slika 9"
+        },
+        "katId" : 8,
+        "naslov" : "My Gift is You",
+        "cena" : "99$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 9,
+        "slika" : {
+            "src" : "images/pic14.jpg",
+            "alt" : "Slika 9"
+        },
+        "katId" : 3,
+        "naslov" : "Loveable",
+        "cena" : "121$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 10,
+        "slika" : {
+            "src" : "images/pic9.jpg",
+            "alt" : "Slika 9"
+        },
+        "katId" : 5,
+        "naslov" : "Getting Warmer",
+        "cena" : "84$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 11,
+        "slika" : {
+            "src" : "images/pic1.jpg",
+            "alt" : "Slika 1"
+        },
+        "naslov" : "Relax Music",
+        "cena" : "56$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 12,
+        "slika" : {
+            "src" : "images/pic2.jpg",
+            "alt" : "Slika 2"
+        },
+        "naslov" : "Hard Rock",
+        "cena" : "65$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 13,
+        "slika" : {
+            "src" : "images/pic3.jpg",
+            "alt" : "Slika 3"
+        },
+        "naslov" : "Texas Music",
+        "cena" : "40$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 14,
+        "slika" : {
+            "src" : "images/pic4.jpg",
+            "alt" : "Slika 4"
+        },
+        "naslov" : "Indie Music",
+        "cena" : "36$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 15,
+        "slika" : {
+            "src" : "images/pic5.jpg",
+            "alt" : "Slika 5"
+        },
+        "naslov" : "Cool Jazz",
+        "cena" : "43$",
+        "dugme" : "Add to Cart"
+    }
+]

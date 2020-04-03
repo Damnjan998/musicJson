@@ -1,0 +1,49 @@
+[
+    {
+        "id" : 1,
+        "putanja" : "specials.html",
+        "naziv" : "Blues"
+    },
+
+    {
+        "id" : 2,
+        "putanja" : "specials.html",
+        "naziv" : "Children"
+    },
+
+    {
+        "id" : 3,
+        "putanja" : "specials.html",
+        "naziv" : "Rock"
+    },
+
+    {
+        "id" : 4,
+        "putanja" : "specials.html",
+        "naziv" : "Country"
+    },
+
+    {
+        "id" : 5,
+        "putanja" : "specials.html",
+        "naziv" : "Jazz"
+    },
+
+    {
+        "id" : 6,
+        "putanja" : "specials.html",
+        "naziv" : "Dance"
+    },
+
+    {
+        "id" : 7,
+        "putanja" : "specials.html",
+        "naziv" : "Pop"
+    },
+
+    {
+        "id" : 8,
+        "putanja" : "specials.html",
+        "naziv" : "Reggae"
+    }
+]

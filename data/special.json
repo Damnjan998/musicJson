@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 1,
+        "slika" : {
+            "src" : "images/pic10.jpg",
+            "alt" : "Slika 5"
+        },
+        "naslov" : "Simply Sound",
+        "cena" : "19$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 2,
+        "slika" : {
+            "src" : "images/pic6.jpg",
+            "alt" : "Slika 6"
+        },
+        "naslov" : "Emotions Notes",
+        "cena" : "28$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 3,
+        "slika" : {
+            "src" : "images/pic7.jpg",
+            "alt" : "Slika 7"
+        },
+        "naslov" : "Wind-wall Music",
+        "cena" : "82$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 4,
+        "slika" : {
+            "src" : "images/pic8.jpg",
+            "alt" : "Slika 8"
+        },
+        "naslov" : "Cold Air",
+        "cena" : "76$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 5,
+        "slika" : {
+            "src" : "images/pic9.jpg",
+            "alt" : "Slika 9"
+        },
+        "naslov" : "Personality",
+        "cena" : "63$",
+        "dugme" : "Add to Cart"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 11,
+        "slika" : {
+            "src" : "images/pic1.jpg",
+            "alt" : "Slika 1"
+        },
+        "naslov" : "Relax Music",
+        "cena" : "56$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 12,
+        "slika" : {
+            "src" : "images/pic2.jpg",
+            "alt" : "Slika 2"
+        },
+        "naslov" : "Hard Rock",
+        "cena" : "65$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 13,
+        "slika" : {
+            "src" : "images/pic3.jpg",
+            "alt" : "Slika 3"
+        },
+        "naslov" : "Texas Music",
+        "cena" : "40$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 14,
+        "slika" : {
+            "src" : "images/pic4.jpg",
+            "alt" : "Slika 4"
+        },
+        "naslov" : "Indie Music",
+        "cena" : "36$",
+        "dugme" : "Add to Cart"
+    },
+
+    {
+        "id" : 15,
+        "slika" : {
+            "src" : "images/pic5.jpg",
+            "alt" : "Slika 5"
+        },
+        "naslov" : "Cool Jazz",
+        "cena" : "43$",
+        "dugme" : "Add to Cart"
+    }
+]

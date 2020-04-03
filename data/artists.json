@@ -1,0 +1,37 @@
+[
+    {
+        "slika" : {
+            "putanja" : "images/pic8.jpg",
+            "alt" : "Izvodjac 3"
+        },
+        "naslov" : "John Kramer",
+        "opis" : "Is an American rapper and philanthropist from Oakland, California. His first major - label album, These Things Happen, was released on June 23, 2014 and peaked at number 3 on the US Billboard 200. His second studio album, When It's Dark Out, was released on December 4, 2015."
+    },
+
+    {
+        "slika" : {
+            "putanja" : "images/pic2.jpg",
+            "alt" : "Izvodjac 2"
+        },
+        "naslov" : "Eric Matthews",
+        "opis" : "Is an American singer, songwriter and record producer. His initial exposure came through the viral success of his song videos uploaded to YouTube. \"See You Again\" was released as debut single in 2015, which he co - wrote, co - produced, and performed with Wiz Khalifa for the Furious 7."
+    },
+
+    {
+        "slika" : {
+            "putanja" : "images/pic1.jpg",
+            "alt" : "Izvodjac 1"
+        },
+        "naslov" : "Amanda Young",
+        "opis" : "Is an American singer, songwriter and actress. She began her career in 2008. Her third album Dangerous Woman (2016), explored pop and dancem and became her first number - one album in the United Kingdom."
+    },
+
+    {
+        "slika" : {
+            "putanja" : "images/pic4.jpg",
+            "alt" : "Izvodjac 4"
+        },
+        "naslov" : "Lawrence Gordon",
+        "opis" : "Is an Indian singer, songwriter, author, record producer, performer and environmentalist. He is credited with making Bhangra popular worldwide, and helping to set up a parallel non - film Indian pop music industry to the pre - Daler era's then existent Bollywood music."
+    }
+]
